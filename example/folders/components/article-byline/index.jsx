@@ -1,6 +1,7 @@
 import React from 'react';
 import BEM from 'react-bem-helper';
-import Schema from 'components/schema';
+import Schema from '../schema';
+
 const classes = new BEM('article-byline');
 
 export default React.createClass({
@@ -17,7 +18,7 @@ export default React.createClass({
 
     return (
       <div {...classes()}>
-        <p {...classes('text')}>{text}</p>
+        <p {...classes('text')}>{ text }</p>
         <Schema {...schema} />
       </div>
     );

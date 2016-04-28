@@ -17,7 +17,7 @@ export default React.createClass({
 
     return (
       <div {...classes({ modifier: modifier })}>
-        <strong {...classes('text')}>{text}</strong>
+        <strong {...classes('text')}>{ text }</strong>
       </div>
     );
   }

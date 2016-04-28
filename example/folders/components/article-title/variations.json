@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Default",
+    "props": {
+      "text": "Super awesome article begins"
+    }
+  },
+  {
+    "title": "Suffixed",
+    "props": {
+      "text": "Super awesome article",
+      "suffix": "beginning now",
+    }
+  }
+]
