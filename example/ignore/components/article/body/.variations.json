@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Standard",
+    "data": {
+      "content": "<p>Letzten Herbst hatte'Regierungsr&auml'tin Susae'e <a href='http://ezmoithkzejhg.com'>Hochuli ausgerechnet</a> in einem Radio-Interview gesagt, sie bezahle keine Billag-Geb&uuml;hren: </p>"
+    }
+  },
+  {
+    "title": "Supporting",
+    "data": {
+      "type": "supporting-copy",
+      "content": "<p>Letzten Herbst hatte'Regierungsr&auml'tin Susae'e <a href='http://ezmoithkzejhg.com'>Hochuli ausgerechnet</a> in einem Radio-Interview gesagt, sie bezahle keine Billag-Geb&uuml;hren: </p>"
+    }
+  },
+  {
+    "title": "Children",
+    "data": {
+      "type": "copy",
+      "children": "Pass React child components here to render inside wrapper"
+    }
+  }
+]

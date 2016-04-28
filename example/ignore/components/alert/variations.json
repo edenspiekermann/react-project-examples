@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Normal",
+    "props": {
+      "text": "Leider konnten keine Resultate zu Ihrem Suchbegriff gefunden werden"
+    }
+  },
+  {
+    "title": "Centered",
+    "props": {
+      "text": "Leider konnten keine Resultate zu Ihrem Suchbegriff gefunden werden",
+      "modifier": "centered"
+    }
+  }
+]
