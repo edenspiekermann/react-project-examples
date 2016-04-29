@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "styleguide": "node ./node_modules/react-living-styleguide/src/index.js"
+    "styleguide": "node ./node_modules/react-living-styleguide/"
   },
   "repository": {
     "type": "git",
